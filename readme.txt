@@ -19,3 +19,4 @@
 # vim readme.txt ( test tracks changes )
 # git add readme.txt
 # vim readme.txt ( what's will we looking ? )
+# stupid man also use SVN
