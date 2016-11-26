@@ -7,3 +7,10 @@
 # git add readme.txt
 # git commit
 # vim readme.txt ( try commit -m)
+# git add readme.txt
+# git commit -m " append something"
+# git log 
+# git log pretty=oneline
+# vim readme.txt ( append PLUI )
+# git add readme.txt
+# git commit " append PLUI"
