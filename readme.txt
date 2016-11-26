@@ -3,7 +3,7 @@
 # cd learngit/
 # vim readme.txt
 # git config --global user.name "yanlong"
-# git config --global user.email "guoyl@halflink.cn"
+# git config --global user.email "my@email.com"
 # git add readme.txt
 # git commit
 # vim readme.txt ( try commit -m)
