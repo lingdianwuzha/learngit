@@ -6,3 +6,4 @@
 # git config --global user.email "guoyl@halflink.cn"
 # git add readme.txt
 # git commit
+# vim readme.txt ( try commit -m)
