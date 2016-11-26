@@ -17,3 +17,5 @@
 # vim readme.txt ( test roll back )
 # vim LICENSE
 # vim readme.txt ( test tracks changes )
+# git add readme.txt
+# vim readme.txt ( what's will we looking ? )
